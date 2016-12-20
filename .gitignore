@@ -90,3 +90,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
+#sqlite3 db added 12/20/2016 dps
+db.sqlite3
