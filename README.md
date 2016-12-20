@@ -7,3 +7,8 @@ First time messing around with django ([https://www.djangoproject.com](https://w
 database migration
 
     python manage.py migrate
+
+start the server
+
+    python manage.py runserver
+
